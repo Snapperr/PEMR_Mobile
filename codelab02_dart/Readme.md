@@ -1,7 +1,7 @@
 # Practical Assignment
 
 ### 1. Modify the code in line 3 in VS Code or your favorite code editor below to get the requested output! 1
-![alt text](prakw2.png)
+![alt text](img/prakw2.png)
 
 ### 2. Why is it so important to understand the Dart programming language before we use the Flutter framework? Explain!
 Since Dart is the programming language behind Flutter, it serves as the foundation for everything Flutter does. While Flutter supplies the framework, widgets, and tools to build user interfaces and manage application state, Dart is what drives the logic and execution underneath. Gaining a solid understanding of Dart first provides the necessary background to grasp how Flutter functions, making it easier to use the framework effectively and write more reliable, efficient applications.
@@ -19,7 +19,7 @@ Since Dart is the programming language behind Flutter, it serves as the foundati
     - Ahead-Of-Time (AOT) Compilation: Compiles code beforehand for production. This yields significant performance gains but lacks hot reload and advanced debugging.
 
 ### 4. Provide an explanation and code examples about the differences between Null Safety and Late variables!
-![alt text](q4.png)
+![alt text](img/q4.png)
 
 - The null safety feature requires us to clearly state whether a variable is allowed to hold a null value (with ?) or must always contain a value. This helps avoid unexpected errors that happen when trying to use a variable that hasn’t been assigned a value.
 
